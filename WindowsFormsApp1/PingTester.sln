@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingTester", "WindowsFormsApp1\PingTester.csproj", "{20A7156E-D70D-44CE-A4C0-59203E5CE29B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{64B1595A-84CC-4DC9-B23E-582A48F4FEA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20A7156E-D70D-44CE-A4C0-59203E5CE29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A7156E-D70D-44CE-A4C0-59203E5CE29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A7156E-D70D-44CE-A4C0-59203E5CE29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A7156E-D70D-44CE-A4C0-59203E5CE29B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B1595A-84CC-4DC9-B23E-582A48F4FEA6}.Debug|Any CPU.ActiveCfg = Debug
+		{64B1595A-84CC-4DC9-B23E-582A48F4FEA6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
