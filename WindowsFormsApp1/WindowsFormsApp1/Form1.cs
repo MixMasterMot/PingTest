@@ -20,6 +20,8 @@ namespace PingTester
 
         // Declare our worker thread
         private Thread workerThread = null;
+
+        //static variables
         private static int count = 0;
         private static string web = null;
         private static double highPing = 0;
@@ -127,7 +129,6 @@ namespace PingTester
             if (ping == -1)
             {
                 lossCount = lossCount + 1;
-                lblPackLoss.Text = Convert.ToString(lossCount / pingCount * 100);
             }
             if (ping < lowPing && ping > -1)
             {
@@ -147,6 +148,8 @@ namespace PingTester
             pingTime.Add(ping);
             double pingSum = pingTime.Sum();
             lblAvrgPing.Text = Convert.ToString(pingSum / pingTime.Count);
+            lblPackLoss.Text = Convert.ToString(lossCount / pingCount * 100);
+
             return ping;
         }
 
