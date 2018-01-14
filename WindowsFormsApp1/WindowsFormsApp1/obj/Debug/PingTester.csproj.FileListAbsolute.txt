@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PingTester.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PingTester.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PingTester.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PingTester.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PingTester.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PingTester.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PingTester.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PingTester.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PingTester.pdb
