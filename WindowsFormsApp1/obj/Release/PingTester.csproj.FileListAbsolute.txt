@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\PingLogs\txtPing.txt
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\PingLogs\txtPing1.txt
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\PingLogs\txtPing2.txt
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\PingTester.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\PingTester.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\PingTester.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\PingTester.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\PingTester.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\PingTester.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\PingTester.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\PingTester.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\PingTester.pdb
